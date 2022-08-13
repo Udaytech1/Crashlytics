@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "841045567176",
+    "project_id": "fcmmessage-591f5",
+    "storage_bucket": "fcmmessage-591f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841045567176:android:7f0af2e98b840b621027fd",
+        "android_client_info": {
+          "package_name": "com.skyview.fcmnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841045567176-a8ju81fcrvtdf9qi73m64c695ssj3o93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVaKy5IpC-uXN1M4ijEViktauYyEUqHI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841045567176-a8ju81fcrvtdf9qi73m64c695ssj3o93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841045567176:android:7f990c726b99b0391027fd",
+        "android_client_info": {
+          "package_name": "com.uday.crashlysticapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841045567176-a8ju81fcrvtdf9qi73m64c695ssj3o93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVaKy5IpC-uXN1M4ijEViktauYyEUqHI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841045567176-a8ju81fcrvtdf9qi73m64c695ssj3o93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
